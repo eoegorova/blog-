@@ -1,0 +1,4 @@
+[submodule "eoegorova.github.io"]
+	path = eoegorova.github.io
+	url = https://github.com/eoegorova/eoegorova.github.io.git
+	branch = main
